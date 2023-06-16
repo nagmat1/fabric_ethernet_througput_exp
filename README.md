@@ -2,7 +2,7 @@
 
 # Fabric testbed iperf experiment example
 
-Available ethernet traffic throughput on Fabric testbed : 
+Experiment 1 : Available ethernet traffic throughput on Fabric testbed inside switch : 
 
 ```
 15.6 Gbits/sec
