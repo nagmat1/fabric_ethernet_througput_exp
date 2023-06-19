@@ -66,4 +66,12 @@ Connecting to host 10.134.129.2, port 5201
 iperf Done.
 ```
 
+On the same nodes I was measuring the throughput using sendpfast : Maximum I got was 58.7 Mb. 
+
+![Screenshot from 2023-06-19 12-56-51](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/8d69a990-3dea-461f-b038-ce29fec09b06)
+
+
+
+
+
 
