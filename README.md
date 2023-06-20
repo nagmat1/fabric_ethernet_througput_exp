@@ -70,6 +70,11 @@ On the same nodes I was measuring the throughput using sendpfast : Maximum I got
 
 ![Screenshot from 2023-06-19 12-56-51](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/8d69a990-3dea-461f-b038-ce29fec09b06)
 
+Initial decision : I maybe limited by tcp buffer size, maybe try changes as suggested here https://www.cyberciti.biz/faq/linux-tcp-tuning/
+
+After the changes : I am getting ``` 3.27 GBytes ``` 
+
+![Screenshot from 2023-06-19 18-12-59](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/dbf814b3-a3cb-4de8-b550-3d11b4bb683f)
 
 
 
