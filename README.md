@@ -74,7 +74,8 @@ Initial decision : I maybe limited by tcp buffer size, maybe try changes as sugg
 
 After the changes : I am getting ``` 3.27 GBytes ``` 
 
-![Screenshot from 2023-06-19 18-12-59](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/dbf814b3-a3cb-4de8-b550-3d11b4bb683f)
+![Screenshot from 2023-06-19 18-23-53](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/766a316d-161b-4999-a916-3de1162d40e0)
+
 
 
 
