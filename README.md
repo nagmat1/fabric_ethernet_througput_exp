@@ -80,7 +80,7 @@ After the changes : I am getting ``` 3.27 GBytes ```
 
 # 3 nodes, with ARP implementation : 
 
-The maximum I got with sendpfast is : ```  70.2Mb ``` as shown below. 
+The maximum I got with sendpfast is : ```  70.2Mb ``` as shown below. We are measuring the network bandwith with ``` iftop ``` . 
 
 ![Screenshot from 2023-06-30 15-26-54](https://github.com/nagmat1/fabric_ethernet_througput_exp/assets/51871069/f3383c77-9ad6-48c4-ba94-0bb2c770cf7d)
 
